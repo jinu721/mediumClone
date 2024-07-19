@@ -1,7 +1,4 @@
-# mediumClone
-Here's a revised description for your project:
 
----
 
 ## Medium Clone - Home Page Design
 
