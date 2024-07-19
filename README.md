@@ -35,7 +35,7 @@ Contributions to improve responsiveness and add new pages are welcome! Feel free
 
 ### Author
 
-This project was created by [Your Name]. You can reach out to me on [Your Contact Information] for any questions or feedback.
+This project was created by jinu. You can reach out to me on @jin.uuu_ for any questions or feedback.
 
 ---
 
